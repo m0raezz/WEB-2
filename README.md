@@ -6,34 +6,34 @@ Repositório com as atividades, exercícios e projetos desenvolvidos na discipli
 
 ## 📅 Cronograma de Aulas
 
-| Semana | Status | Atividade |
-|:------:|:------:|:---------:|
-| 01 | ✅ | [ATV 01](./AULA%201%20-%2027_07_26) |
-| 02 | ⏳ | *Em breve* |
-| 03 | ⏳ | *Em breve* |
-| 04 | ⏳ | *Em breve* |
-| 05 | ⏳ | *Em breve* |
-| 06 | ⏳ | *Em breve* |
-| 07 | ⏳ | *Em breve* |
-| 08 | ⏳ | *Em breve* |
-| 09 | ⏳ | *Em breve* |
-| 10 | ⏳ | *Em breve* |
-| 11 | ⏳ | *Em breve* |
-| 12 | ⏳ | *Em breve* |
-| 13 | ⏳ | *Em breve* |
-| 14 | ⏳ | *Em breve* |
-| 15 | ⏳ | *Em breve* |
-| 16 | ⏳ | *Em breve* |
-| 17 | ⏳ | *Em breve* |
+| Semana | Status | Conteúdo |
+|:------:|:------:|:---------|
+| 01 | ✅ | [Aula 1 — 27/07/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%201%20-%2027_07_26) |
+| 02 | ⏳ | *Aguardando próxima aula* |
+| 03 | ⏳ | *Aguardando próxima aula* |
+| 04 | ⏳ | *Aguardando próxima aula* |
+| 05 | ⏳ | *Aguardando próxima aula* |
+| 06 | ⏳ | *Aguardando próxima aula* |
+| 07 | ⏳ | *Aguardando próxima aula* |
+| 08 | ⏳ | *Aguardando próxima aula* |
+| 09 | ⏳ | *Aguardando próxima aula* |
+| 10 | ⏳ | *Aguardando próxima aula* |
+| 11 | ⏳ | *Aguardando próxima aula* |
+| 12 | ⏳ | *Aguardando próxima aula* |
+| 13 | ⏳ | *Aguardando próxima aula* |
+| 14 | ⏳ | *Aguardando próxima aula* |
+| 15 | ⏳ | *Aguardando próxima aula* |
+| 16 | ⏳ | *Aguardando próxima aula* |
+| 17 | ⏳ | *Aguardando próxima aula* |
 
 ---
 
 ### 📌 Legenda
 
-- ✅ Atividade disponível
-- ⏳ Aguardando aula
-- 🚧 Conteúdo em desenvolvimento
+- ✅ Aula disponível
+- ⏳ Conteúdo ainda não disponibilizado
 
 ---
 
-> Este repositório será atualizado semanalmente conforme novas atividades forem disponibilizadas durante a disciplina.
+> Este repositório será atualizado semanalmente conforme o andamento da disciplina **WEB II**.
+```
