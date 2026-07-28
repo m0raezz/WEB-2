@@ -8,7 +8,7 @@ Repositório com as atividades, exercícios e projetos desenvolvidos na discipli
 
 | Semana | Status | Atividade |
 |:------:|:------:|:---------:|
-| 01 | ✅ | [ATV 01](./AULA 1 - 27_07_26) |
+| 01 | ✅ | [ATV 01](./AULA1-27_07_26) |
 | 02 | ⏳ | *Em breve* |
 | 03 | ⏳ | *Em breve* |
 | 04 | ⏳ | *Em breve* |
