@@ -9,7 +9,7 @@ Repositório com as atividades, exercícios e projetos desenvolvidos na discipli
 | Semana | Status | Conteúdo |
 |:------:|:------:|:---------|
 | 01 | ✅ | [Aula 1 — 27/07/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%201%20-%2027_07_26) |
-| 02 | ⏳ | *Aguardando próxima aula* |
+| 02 | ✅ | [Aula 2 — 03/08/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%202%20-%2003_08_26) |
 | 03 | ⏳ | *Aguardando próxima aula* |
 | 04 | ⏳ | *Aguardando próxima aula* |
 | 05 | ⏳ | *Aguardando próxima aula* |
