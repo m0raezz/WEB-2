@@ -17,7 +17,7 @@ Repositório com as atividades, exercícios e projetos desenvolvidos na discipli
 | 07 | ⏳ | *Aguardando próxima aula* |
 | 08 | ⏳ | *Aguardando próxima aula* |
 | 09 | ⏳ | *Aguardando próxima aula* |
-| 10 | ⏳ | *Aguardando próxima aula* |
+| 10 | ✅ | [Aula 6 — 24/09/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%206%20-%2021_09_2026) |
 | 11 | ⏳ | *Aguardando próxima aula* |
 | 12 | ⏳ | *Aguardando próxima aula* |
 | 13 | ⏳ | *Aguardando próxima aula* |
