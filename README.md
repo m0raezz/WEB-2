@@ -17,8 +17,8 @@ Repositório com as atividades, exercícios e projetos desenvolvidos na discipli
 | 07 | ⏳ | *Aguardando próxima aula* |
 | 08 | ⏳ | *Aguardando próxima aula* |
 | 09 | ⏳ | *Aguardando próxima aula* |
-| 10 | ✅ | [Aula 10 — 24/09/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%2010%20-%2016_11_2026) |
-| 11 | ✅ | [Aula 11 — 24/09/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%2011%20-%2016_11_2026) |
+| 10 | ✅ | [Aula 10 — 16/11/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%2010%20-%2016_11_2026) |
+| 11 | ✅ | [Aula 11 — 16/11/2026](https://github.com/m0raezz/WEB-2/tree/main/AULA%2011%20-%2016_11_2026) |
 | 12 | ⏳ | *Aguardando próxima aula* |
 | 13 | ⏳ | *Aguardando próxima aula* |
 | 14 | ⏳ | *Aguardando próxima aula* |
